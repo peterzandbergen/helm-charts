@@ -1,0 +1,20 @@
+apiVersion: v1
+entries:
+  nifi-registry:
+  - apiVersion: v2
+    appVersion: 0.6.0
+    created: "2021-05-03T21:00:45.9189129+02:00"
+    description: A subproject of Apache NiFi to store and manage shared resources.
+    digest: d88ad94feba55a3520a7870cbe1ae5f2272af7edef89908faf3fadf4a4a74143
+    home: https://github.com/dysnix/charts/tree/master/nifi-registry
+    maintainers:
+    - email: daniel@dysnix.com
+      name: daniel-yavorovich
+    - email: peter.zandbergen@myhops.com
+      name: peterzandbergen
+    name: nifi-registry
+    type: application
+    urls:
+    - nifi-registry-0.2.1.tgz
+    version: 0.2.1
+generated: "2021-05-03T21:00:45.9167065+02:00"
